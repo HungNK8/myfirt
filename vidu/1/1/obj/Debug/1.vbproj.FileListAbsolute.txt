@@ -1,0 +1,9 @@
+D:\vidu\1\1\bin\1.dll.config
+D:\vidu\1\1\bin\1.dll
+D:\vidu\1\1\bin\1.pdb
+D:\vidu\1\1\bin\1.xml
+D:\vidu\1\1\obj\Debug\_1.Resources.resources
+D:\vidu\1\1\obj\Debug\1.vbproj.GenerateResource.Cache
+D:\vidu\1\1\obj\Debug\1.dll
+D:\vidu\1\1\obj\Debug\1.xml
+D:\vidu\1\1\obj\Debug\1.pdb
